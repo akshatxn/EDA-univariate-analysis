@@ -21,7 +21,7 @@ Categorical variables represent **discrete groups or labels** (e.g., Gender, Cit
 - Distribution across categories  
 
 #### 💻 Example
-```python
+python
 import seaborn as sns
 import matplotlib.pyplot as plt
 
@@ -94,7 +94,7 @@ df['Age'].skew()
 - **Skewness ≈ 0** → Symmetric distribution  
 - **Skewness > 0** → Right-skewed (tail on right)  
 - **Skewness < 0** → Left-skewed (tail on left)  
-
+```
 ---
 
 ## 📌 Summary
